@@ -11,7 +11,7 @@ Built with Python, Telethon, and aiohttp, it provides a seamless bridge between 
 ![Main Interface](assets/demo_image.png)
 
 ### 🎥 Demo Video
-[![Watch the Demo](assets/demo_video_thumbnail.png)](assets/demo_video.mp4)
+[![Watch the Demo](assets/demo_video_thumbnail.png)](assets/demo_video.gif)
 
 ---
 
@@ -83,4 +83,5 @@ pyinstaller --onefile --name="TeleStreamPro" player.py
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-Created with ❤️ by Eyuel Engida"# telestream-pro" 
+Created with ❤️ by Eyuel Engida"
+
