@@ -11,7 +11,9 @@ Built with Python, Telethon, and aiohttp, it provides a seamless bridge between 
 ![Main Interface](assets/demo_image.png)
 
 ### 🎥 Demo Video
-[![Watch the Demo](assets/demo_video_thumbnail.png)](assets/demo_video.gif)
+<p align="center">
+  <img src="assets/demo_video.gif" alt="git-mood in action" width="600px" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+</p>
 
 ---
 
