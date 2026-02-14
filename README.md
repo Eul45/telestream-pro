@@ -85,5 +85,4 @@ pyinstaller --onefile --name="TeleStreamPro" player.py
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-Created with ❤️ by Eyuel Engida
-
+Created with by Eyuel Engida
